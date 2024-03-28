@@ -16,7 +16,7 @@ public class Tank {
     }
 
     public Tank(int x, int y, int fuel) {
-        this.x = xz;
+        this.x = x;
         this.y = y;
         this.fuel = fuel;
         n = ++ntanks;
